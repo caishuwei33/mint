@@ -1,0 +1,2 @@
+# mint
+scripts/mint.js
